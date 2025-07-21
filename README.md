@@ -1,6 +1,6 @@
 # Hello... Erik was here🕵️‍♂️
 
-**B.Sc. Informatics Student @ NTNU📚 && Project Coordinator @ Pango Consulting💼**
+**B.Sc. Informatics Student @ NTNU📚 && COO @ Pango Consulting💼**
 
 ## 🛠️ Technologies & Tools
 
