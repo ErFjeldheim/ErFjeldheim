@@ -32,6 +32,7 @@
 <a href="https://vite.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="42" height="42" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fedora-1.svg" alt="fedora" width="42" height="42" /></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-2.svg" alt="ubuntu" width="42" height="42" /></a>
 <a href="https://www.debian.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="debian" width="42" height="42" /></a>
 <a href="https://httpd.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/373433/apache.svg" alt="apache" width="42" height="42" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
