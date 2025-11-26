@@ -40,12 +40,6 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ErFjeldheim&show_icons=true&theme=default&locale=en" alt="Erik's GitHub Stats" />
-</p>
-
 ## 📫 Get In Touch
 
 <p>
