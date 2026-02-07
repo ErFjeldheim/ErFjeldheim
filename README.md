@@ -19,20 +19,22 @@
 <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
 <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="42" height="42" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next.js" width="42" height="42" /></a>
+<a href="https://kit.svelte.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="sveltekit" width="42" height="42" /></a>
 <a href="https://wordpress.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="42" height="42" /></a>
 </p>
 
-**Databases:**
+**Backend & Databases:**
 <p>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="42" height="42" /></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="42" height="42" /></a>
+<a href="https://pocketbase.io/" target="_blank"><img src="https://pocketbase.io/images/logo.svg" alt="pocketbase" width="42" height="42" /></a>
 </p>
 
 **Tools & Systems:**
 <p>
 <a href="https://vite.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="42" height="42" /></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="42" height="42" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a href="https://fedoraproject.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fedora-1.svg" alt="fedora" width="42" height="42" /></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-icon.svg" alt="ubuntu" width="42" height="42" /></a>
@@ -41,6 +43,8 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a href="https://www.vim.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="42" height="42" /></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a href="https://dokploy.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dokploy-dark.svg" alt="dokploy" width="42" height="42" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" /></a>
 </p>
 
 ## 📫 Get In Touch
