@@ -1,8 +1,8 @@
-# Hello... Erik was here🕵️‍♂️
+# Hello... Erik was here
 
-**B.Sc. Informatics Student @ NTNU📚 && COO @ Pango Consulting💼**
+**B.Sc. Informatics Student @ NTNU && COO @ Pango Consulting**
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Programming Languages:**
 <p>
@@ -48,7 +48,7 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="42" height="42" /></a>
 </p>
 
-## 📫 Get In Touch
+## Get In Touch
 
 <p>
 <a href="https://www.linkedin.com/in/fjeldheim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><a>
